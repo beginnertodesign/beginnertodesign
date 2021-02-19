@@ -11,3 +11,9 @@ font-style:normal;
 font-family:courier;
 color:blue;
 }
+nav a{
+  background:green;
+  color:yellow;
+  block:in-line;
+}
+  
